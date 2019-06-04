@@ -1,7 +1,6 @@
 # Life-Goals
 
 Create, Achieve and Share your Goals
-
 [![](https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg)](https://play.google.com/store/apps/details?id=immense.development.notes1) 
 
 Create your life goals, visualize them and after you have successfully achieved your goals share them with everyone.
